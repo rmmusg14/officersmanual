@@ -16,6 +16,7 @@ We need notes on everything connected with running the club including:
 - how to reserve vans for travel
 - how we manage version control of the club constitution
 - connecting with Eta Sigma Phi re: Classics Day
+- running a club web site, and other outreach
 - what your advisor will know:  nothing
 
 If you have any experience with or insight into any of those topics, dump a note in the notes folder!
